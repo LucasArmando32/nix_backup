@@ -1,4 +1,4 @@
-# Franco's Declarative macOS Configuration
+# Lucas Declarative macOS Configuration
 
 This repository contains the full declarative configuration for my macOS setup, managed by Nix and `nix-darwin`. The goal is a reproducible and version-controlled system.
 
