@@ -106,9 +106,9 @@
       darwinConfigurations = nixpkgs.lib.genAttrs darwinSystems (
         system:
         let
-          username = "franco";
-          email = "f.camborda@outlook.com";
-          fullName = "Franco Camborda";
+          username = "lucas";
+          email = "lr.rs.asbestsanierung@gmail.com";
+          fullName = "Lucas Reitmann";
         in
         darwin.lib.darwinSystem {
           inherit system;
@@ -140,9 +140,9 @@
         system:
         # Define the username for THIS specific NixOS configuration here!
         let
-          username = "franco";
+          username = "lucas";
           email = "f.camborda@outlook.com";
-          fullName = "Franco Camborda";
+          fullName = "Lucas Reitmann";
         in
         nixpkgs.lib.nixosSystem {
           inherit system;

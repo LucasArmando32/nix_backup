@@ -15,15 +15,6 @@ _:
   # Entertainment Tools
   "vlc"
 
-  # Productivity Tools
-  "raycast"
-  # Desktop/Windows management 
+  # Desktop/Windows management
   "rectangle"
-
-  # Browsers
-  "google-chrome"
-
-  # Password manager
-  "1password"
-
 ]
